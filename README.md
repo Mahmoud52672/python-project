@@ -1,17 +1,29 @@
 # Lab Asset Management System
 
-## وصف المشروع
-نظام لإدارة أصول المعمل، بيسمح للمستخدم بإضافة الأجهزة وتخزينها في ملف CSV.
-This is a Lab Asset Management System developed using Python and Flask.:
-   `python main.py`
+📌 Project Description
+This is a Lab Asset Management System developed using Python and Flask.  
+The system helps manage laboratory assets easily and efficiently, with the ability to export data to CSV files.
 
-## أعضاء الفريق
+نظام لإدارة أصول المعمل، بيساعدك تضيف وتعدل البيانات وتخزنها بسهولة في ملفات CSV.
+
+---
+
+👨‍💻 Team Members
 - Mahmoud Mohamed Mahmoud Mouawad
-- Ali AbdElnaser Ali
-- Ali Ashraf Ali 
+- Ali Abdelnaser Ali
+- Ali Ashraf Ali
 - Mahmoud Mohamed Ahmed
 - Abdelrahman Elsayed Fawzy
 
-- Add and manage laboratory assets.
-- Export and save data to CSV files.
-- Simple and user-friendly interface.
+---
+
+⚙️ Features
+- Add and manage laboratory assets
+- Export and save data to CSV files
+- Simple and user-friendly interface
+
+---
+
+🚀 How to Run
+1. Make sure you have Python installed
+2. Install Flask:
