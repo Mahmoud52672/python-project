@@ -14,3 +14,7 @@ This is a Lab Asset Management System developed using Python and Flask.
 - Ali Ashraf Ali 
 - Mahmoud Mohamed Ahmed
 - Abdelrahman Elsayed Fawzy
+
+- Add and manage laboratory assets.
+- Export and save data to CSV files.
+- Simple and user-friendly interface.
